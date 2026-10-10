@@ -52,3 +52,25 @@ class JobPosting(BaseModel):
                 seen.add(skill.lower())
                 out.append(skill)
         return out
+
+
+class LLMExtraction(JobPosting):
+    """What the model returns: the posting fields plus its own confidence."""
+
+    confidence: float = Field(description="How sure you are that every field is correct, from 0.0 to 1.0")
+
+    @field_validator("confidence")
+    @classmethod
+    def in_unit_range(cls, value: float) -> float:
+        if not 0.0 <= value <= 1.0:
+            raise ValueError(f"confidence must be between 0 and 1, got {value}")
+        return value
+
+
+class Extraction(BaseModel):
+    """The API's answer: the validated posting plus how it was obtained."""
+
+    posting: JobPosting
+    confidence: float
+    attempts: int
+    errors: list[str] = Field(default_factory=list, description="Validation errors from failed attempts")
