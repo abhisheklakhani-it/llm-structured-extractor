@@ -1,0 +1,15 @@
+Applied Scientist, Search Ranking — Kaleido Media
+
+Kaleido Media runs a streaming platform with 9 million monthly users. Our search team is hiring an Applied Scientist to improve how people find shows.
+
+What you'll do
+* Train learning-to-rank models (LightGBM LambdaMART, neural rankers)
+* Build embedding-based retrieval with sentence transformers and FAISS
+* Measure impact with offline metrics (nDCG, MRR) and online A/B tests
+
+What you'll need
+* MSc or PhD in CS, statistics or similar
+* Strong Python, PyTorch, and SQL
+* Experience with Elasticsearch or OpenSearch
+
+Location: Cologne office, with flexible home office.

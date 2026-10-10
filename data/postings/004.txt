@@ -1,0 +1,25 @@
+Accept all cookies | Manage preferences
+Skip to main content   Jobs   Teams   Locations   Log in
+
+AI Engineer – LLM Applications
+Brightwave Labs · Remote (EU) · Full-time
+
+Posted 3 days ago · 48 applicants
+
+Brightwave Labs helps legal teams search millions of contracts. We're hiring an AI Engineer to build retrieval-augmented generation (RAG) features.
+
+You will:
+→ design RAG pipelines with LangChain or LlamaIndex
+→ run evaluations of retrieval quality and answer faithfulness
+→ ship features in our TypeScript + Python codebase
+
+You have:
+✔ strong Python
+✔ experience with vector databases (Qdrant, Pinecone or Weaviate)
+✔ hands-on with OpenAI or Anthropic APIs
+✔ basic TypeScript
+
+Fully remote within the EU. Salary depending on experience.
+
+Apply now   Save   Share
+© 2026 Brightwave Labs. Privacy · Imprint

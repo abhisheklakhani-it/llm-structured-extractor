@@ -1,0 +1,17 @@
+Data Scientist (m/w/d) – NLP
+Sprachwerk AI GmbH | Berlin
+
+Deine Aufgaben:
+• Du entwickelst Modelle zur Klassifikation und Zusammenfassung deutscher Texte
+• Du evaluierst Large Language Models für unsere Kundenprojekte
+• Du arbeitest eng mit unserem Produktteam zusammen
+
+Dein Profil:
+• Abgeschlossenes Studium der Informatik, Mathematik oder vergleichbar
+• Sehr gute Kenntnisse in Python und Hugging Face Transformers
+• Erfahrung mit spaCy, scikit-learn und Prompt Engineering
+• Sehr gute Deutsch- und gute Englischkenntnisse
+
+Wir bieten:
+• Gehalt: 60.000 – 72.000 € brutto jährlich
+• 100 % Remote innerhalb Deutschlands möglich, Teamtreffen einmal im Quartal

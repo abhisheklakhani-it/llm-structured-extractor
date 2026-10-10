@@ -1,0 +1,12 @@
+Full Stack Engineer
+NovaPay
+
+About NovaPay: we build payment links for small businesses across Europe. Series A, 40 people, offices in Lisbon and Berlin.
+
+The role: you'll ship features across our Django backend and Vue.js frontend, from database migrations to pixel-perfect UI.
+
+Our stack: Python, Django, Django REST Framework, PostgreSQL, Celery, Vue.js, Tailwind CSS, deployed on Heroku.
+
+You: 3+ years of full stack experience, comfortable owning a feature end to end.
+
+Compensation: €65k–€80k + stock options.

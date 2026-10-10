@@ -1,0 +1,17 @@
+Job title: Freelance Data Scientist (6 months, extendable)
+Client: Quantor Finance
+Location: Frankfurt am Main / remote
+Start: ASAP
+Rate: 95 EUR/hour
+Workload: 100%
+
+Project: Building credit risk models for an SME lending product.
+
+Requirements:
+- Python, scikit-learn, XGBoost, LightGBM
+- SQL (Oracle)
+- Model explainability (SHAP)
+- Experience with credit risk / IFRS 9 is a strong plus
+- German at C1 level
+
+Mostly remote, on-site in Frankfurt one day every two weeks.

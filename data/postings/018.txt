@@ -1,0 +1,17 @@
+Senior Data Scientist (all genders) - Pricing
+Grünkraft Mobility GmbH, München
+
+Grünkraft betreibt 4.000 E-Scooter in sechs Städten. Als Senior Data Scientist verantwortest du unsere dynamische Preisgestaltung.
+
+Deine Aufgaben
+→ Entwicklung von Preis- und Nachfragemodellen (Zeitreihen, Bayes'sche Modelle)
+→ Konzeption von Experimenten im Feld
+→ Produktivsetzung der Modelle gemeinsam mit dem Engineering
+
+Dein Profil
+→ 4+ Jahre Erfahrung als Data Scientist
+→ Python (pandas, statsmodels, PyMC), SQL
+→ Erfahrung mit Databricks ist hilfreich
+
+Benefits
+Bis zu 95.000 € Jahresgehalt, kostenlose Scooter-Fahrten, Remote-first – das Büro in München ist optional.

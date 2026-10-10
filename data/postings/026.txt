@@ -1,0 +1,10 @@
+Junior Python Entwickler (m/w/d)
+Wortmann & Partner Personalberatung
+
+Für unseren Kunden, einen etablierten Mittelständler aus dem Maschinenbau im Raum Augsburg, suchen wir einen Junior Python Entwickler (m/w/d).
+
+Aufgaben: Entwicklung interner Tools zur Auswertung von Maschinendaten, Anbindung von Datenbanken (MySQL), Erstellung von Web-Oberflächen mit Flask.
+
+Anforderungen: Erste Berufserfahrung mit Python, Grundkenntnisse in SQL und Git, Interesse an Industrie 4.0.
+
+Angebot: 48.000 – 54.000 € p.a., Gleitzeit, Arbeiten überwiegend vor Ort.

@@ -1,0 +1,17 @@
+Bauhaus Digital sucht: DevOps Engineer (m/w/d)
+
+Standort: Weimar oder komplett remote
+
+Warum wir? Wir sind eine Agentur für digitale Produkte mit 60 Mitarbeitenden. Wir betreuen über 80 Kundenprojekte in der Cloud.
+
+Was du tust:
+1. Du betreibst unsere Kubernetes-Cluster bei Hetzner und AWS.
+2. Du baust GitHub Actions Pipelines für unsere Teams.
+3. Du kümmerst dich um Monitoring mit Prometheus, Loki und Grafana.
+
+Was du kannst:
+- Docker, Kubernetes, Helm
+- Terraform oder Pulumi
+- Linux und Netzwerkgrundlagen
+
+Gehalt: ab 62.000 € im Jahr, je nach Erfahrung.

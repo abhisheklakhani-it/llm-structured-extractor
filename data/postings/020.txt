@@ -1,0 +1,8 @@
+Praktikum Machine Learning (m/w/d) – 6 Monate
+Elbe Data Consulting · Dresden
+
+Im Praktikum unterstützt du unser Team bei Kundenprojekten rund um Bilderkennung in der Qualitätskontrolle. Du trainierst Modelle mit PyTorch, bereitest Bilddaten auf und hilfst beim Deployment auf Edge-Geräten (NVIDIA Jetson).
+
+Voraussetzungen: Studium im Bereich Informatik, Elektrotechnik oder ähnlich; erste Erfahrungen mit Python und Deep Learning; Interesse an Computer Vision.
+
+Die Vergütung beträgt 1.800 € im Monat. Arbeitsort ist unser Büro in Dresden, gelegentliches Homeoffice nach Absprache.

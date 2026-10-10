@@ -1,0 +1,6 @@
+Datenbankentwickler:in PostgreSQL
+Fjord Cloud GmbH – Kiel
+
+Wir betreiben eine Managed-Database-Plattform für den Mittelstand. Du optimierst Abfragen, planst Migrationen und automatisierst Backups. Wichtig sind uns sehr gute Kenntnisse in PostgreSQL und PL/pgSQL, Erfahrung mit Replikation und Performance-Tuning sowie Python für Automatisierung. Kenntnisse in Patroni oder pgBackRest sind ein Plus.
+
+Wir zahlen 70.000 € im Jahr, fix. Arbeitsort: Kiel, zwei Tage pro Woche Homeoffice.

@@ -1,0 +1,10 @@
+Conversational AI Engineer (Voice)
+Alpenblick Software AG · Bern
+
+Alpenblick builds voice assistants for Swiss public transport. Help us make our assistant understand Swiss German!
+
+You'll fine-tune speech recognition (Whisper) and intent classification models, design dialogue flows with Rasa, and work with our linguists on Swiss German dialect data.
+
+Ideal profile: Python, PyTorch, Hugging Face, experience with ASR or speech processing, Rasa or similar dialogue frameworks. German or Swiss German is a big plus.
+
+Salary: CHF 110k–130k. Home office possible two days a week.

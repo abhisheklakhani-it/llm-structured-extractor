@@ -1,0 +1,10 @@
+Machine Learning Engineer — Climate Risk
+Aurora Climate
+
+Aurora Climate maps flood and heat risk for every building in Europe. We're looking for an ML Engineer to scale our geospatial models.
+
+Responsibilities: train gradient boosting and CNN models on satellite imagery, build feature pipelines with Dask and xarray, serve predictions through a FastAPI service.
+
+Requirements: Python, PyTorch, scikit-learn, GDAL/rasterio, Docker. Experience with Google Earth Engine is a bonus.
+
+We are remote-first with team members in eight countries; once a year we meet in Copenhagen. €70,000-€85,000.

@@ -1,0 +1,16 @@
+Product Analyst
+Lumen Retail — Amsterdam
+
+Lumen Retail is an online fashion marketplace. Our product analysts turn clickstream data into product decisions.
+
+You'll:
+- design and analyse A/B tests
+- build self-serve dashboards in Tableau
+- write a lot of SQL (BigQuery)
+
+You have:
+- 2+ years as a product or data analyst
+- strong SQL, working knowledge of Python or R
+- a solid grasp of statistics and experimentation
+
+We're a hybrid company: Tuesdays and Thursdays in the office.

@@ -1,0 +1,10 @@
+NLP Engineer (m/w/d) für Dokumentenverarbeitung
+Datahaus Berlin GmbH
+
+📍 Berlin-Kreuzberg | 🕐 Vollzeit | 🏠 Hybrid (3 Tage Büro)
+
+Was dich erwartet: Du extrahierst Informationen aus Rechnungen, Verträgen und Lieferscheinen. Dafür kombinierst du OCR (Tesseract), Layout-Modelle wie LayoutLM und LLMs mit Structured Outputs. Deine Modelle laufen als Microservices mit FastAPI und Docker.
+
+Was du mitbringst: Python, PyTorch, Hugging Face Transformers, Pydantic, Erfahrung mit OCR. Gute Englischkenntnisse; Deutsch ist von Vorteil.
+
+Gehalt: 64.000 – 76.000 € brutto/Jahr + 1.000 € Weiterbildungsbudget.

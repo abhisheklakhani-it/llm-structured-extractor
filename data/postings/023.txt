@@ -1,0 +1,14 @@
+Tiderunner is hiring a Data Engineer (Python/AWS)!
+
+Location: London (hybrid, 2 days in office)
+Salary: £55k - £70k DOE
+
+Tiderunner builds tide and weather forecasting for shipping companies. You'll build and run the pipelines that ingest data from 2,000 ocean sensors.
+
+Skills we're looking for:
+- Python and SQL
+- AWS (Lambda, S3, Glue, Athena)
+- Infrastructure as code (CDK or Terraform)
+- Bonus: experience with geospatial data (xarray, GeoPandas)
+
+Send your CV to jobs@tiderunner.example

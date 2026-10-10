@@ -1,0 +1,11 @@
+Stellenanzeige
+
+Wir, die Silberfluss Energie GmbH aus Leipzig, suchen ab sofort eine:n
+
+Data Engineer (w/m/d) für unsere Smart-Meter-Plattform
+
+Was du bei uns machst: Du baust Datenpipelines für Millionen von Zählerständen pro Tag mit Apache Kafka, Apache Flink und Python. Die Daten landen in ClickHouse und werden in Grafana visualisiert. Du automatisierst die Infrastruktur mit Terraform auf AWS.
+
+Was du mitbringst: Gute Python- und SQL-Kenntnisse, Erfahrung mit Streaming-Systemen, idealerweise Kenntnisse in Scala.
+
+Was wir bieten: 4 Tage Homeoffice pro Woche, Jobrad, ein Jahresgehalt von 65.000 € bis 78.000 €.

@@ -1,0 +1,9 @@
+Computer Vision Engineer
+Stellar Robotics Ltd — Cambridge, UK
+
+Stellar Robotics builds picking robots for warehouses. You'll work on our perception stack: detection, segmentation and 6-DoF pose estimation.
+
+Must have: Python, C++, PyTorch, OpenCV, experience training detection models (YOLO, Mask R-CNN).
+Nice to have: ROS 2, CUDA, TensorRT.
+
+Salary: £60,000–£75,000. You'll be on-site in Cambridge, where the robots live.

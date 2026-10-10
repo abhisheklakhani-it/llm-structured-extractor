@@ -1,0 +1,12 @@
+Referenznummer: 2026-117
+Teamleitung Business Intelligence (m/w/d)
+
+Arbeitgeber: Medilink Kliniken Verbund gGmbH
+Einsatzort: Hannover
+Anstellung: Vollzeit, unbefristet
+
+Ihre Verantwortung umfasst die fachliche und disziplinarische Leitung eines Teams von sechs BI-Entwickler:innen, die Weiterentwicklung unseres Data Warehouse (Microsoft SQL Server, SSIS) sowie den Ausbau des Reportings mit Power BI.
+
+Sie verfügen über Führungserfahrung, fundierte Kenntnisse in T-SQL und Datenmodellierung sowie idealerweise Erfahrung mit Azure Data Factory.
+
+Die Vergütung erfolgt nach TV-L E14. Mobiles Arbeiten ist bis zu 40 % möglich.

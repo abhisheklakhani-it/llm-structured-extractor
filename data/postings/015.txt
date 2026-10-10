@@ -1,0 +1,12 @@
+Research Scientist – Large Language Models
+Helix Health AI | Zürich, Switzerland
+
+We pre-train and fine-tune medical language models. As a Research Scientist you will run experiments on instruction tuning, RLHF and evaluation of clinical reasoning.
+
+Requirements
+• PhD in machine learning, NLP or a related field
+• Publications at NeurIPS, ICML, ACL or similar
+• Expert in PyTorch, experience with DeepSpeed or FSDP
+• Experience with LoRA / PEFT and Hugging Face libraries
+
+We offer CHF 140,000–170,000 per year. Hybrid: 3 days a week in our Zürich office.

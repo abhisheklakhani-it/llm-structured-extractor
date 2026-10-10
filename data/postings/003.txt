@@ -1,0 +1,13 @@
+Hi Abhishek,
+
+I hope this finds you well! I'm recruiting for a client of mine, a fast-growing insurtech in Munich, who are looking for a Backend Engineer (Python) to join their claims automation squad.
+
+Tech stack: Python, FastAPI, PostgreSQL, Redis, Docker, GCP. Some exposure to Terraform would be a bonus.
+
+They can offer up to €85k base plus equity, and the role is hybrid (2 days a week in the Munich office).
+
+Would you be open to a quick chat this week?
+
+Best,
+Laura
+Talent Partner, Brückner Recruitment

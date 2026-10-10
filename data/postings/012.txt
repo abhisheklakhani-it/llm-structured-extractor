@@ -1,0 +1,10 @@
+Initiativbewerbung erwünscht!
+
+KI-Entwickler:in (Schwerpunkt LLM)
+Vireo Versicherung AG · Köln
+
+Bei der Vireo Versicherung digitalisieren wir die Schadenbearbeitung. Für unser KI-Lab suchen wir eine:n KI-Entwickler:in, die/der LLM-Anwendungen von der Idee bis in den Betrieb bringt.
+
+Deine Werkzeuge: Python, LangChain, Azure OpenAI, FastAPI, Docker. Erfahrung mit RAG und mit der Evaluation von LLM-Antworten ist ein großes Plus.
+
+Wir bieten ein attraktives Gehalt nach Tarifvertrag der Versicherungswirtschaft, betriebliche Altersvorsorge und hybrides Arbeiten (50 % mobil).

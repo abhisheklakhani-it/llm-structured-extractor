@@ -1,0 +1,15 @@
+Staff Software Engineer, ML Infrastructure
+Orbitly Inc. · San Francisco, CA (Remote, US only)
+
+Orbitly's satellite imagery platform processes 40 TB a day. We're looking for a Staff Engineer to lead our ML infrastructure team.
+
+Qualifications
+- 8+ years building distributed systems
+- Deep experience with Go or Rust, and Python
+- Kubernetes, Ray, and GPU scheduling
+- Experience with GCP or AWS at scale
+
+Compensation
+The base salary range for this role is $210,000 - $260,000 per year, plus equity and benefits.
+
+This is a fully remote role open to candidates in the United States.

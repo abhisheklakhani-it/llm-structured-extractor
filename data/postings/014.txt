@@ -1,0 +1,17 @@
+Frontend Developer React (m/w/d)
+
+Über Pixelforge Games
+Wir sind ein Indie-Studio aus Hamburg mit 25 Leuten und machen Browser-Games, die Millionen spielen.
+
+Deine Aufgaben
+- Entwicklung unseres Spiele-Launchers und Shops mit React und TypeScript
+- Performance-Optimierung im Browser
+- Zusammenarbeit mit Game Designern und Backend-Team (Node.js)
+
+Was du mitbringst
+- 2+ Jahre Erfahrung mit React, TypeScript, HTML und CSS
+- Erfahrung mit Jest oder Playwright
+- WebGL ist ein Plus
+
+Rahmen
+Gehalt 55–65k € p.a., Arbeit im Studio in Hamburg-Altona (kein Remote).

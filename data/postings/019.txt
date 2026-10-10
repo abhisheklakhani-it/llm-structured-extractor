@@ -1,0 +1,10 @@
+Security Engineer (Cloud)
+Corvus Security GmbH | Berlin or remote in Germany
+
+Corvus protects SaaS companies from account takeover. Join our platform team to harden our cloud infrastructure.
+
+What you'll work on: AWS security (IAM, GuardDuty, Security Hub), infrastructure as code with Terraform, container security for Kubernetes, incident response.
+
+What you need: 3+ years in cloud security, strong Linux and networking basics, scripting in Python or Go. Certifications like OSCP or AWS Security Specialty are welcome but not required.
+
+Salary range €70,000 to €88,000. Work from our Berlin office or fully remote anywhere in Germany.

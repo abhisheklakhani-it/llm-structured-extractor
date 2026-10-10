@@ -1,0 +1,11 @@
+Wir suchen Verstärkung!
+
+Position: IT-Systemadministrator (m/w/d) Linux
+Firma: Byteberg Hosting GmbH
+Ort: Nürnberg
+
+Ihre Aufgaben: Betrieb und Weiterentwicklung unserer Linux-Server (Debian, Ubuntu), Automatisierung mit Ansible, Überwachung mit Zabbix, Betreuung der Netzwerkinfrastruktur.
+
+Ihr Profil: Abgeschlossene Ausbildung als Fachinformatiker/in Systemintegration oder vergleichbar, sehr gute Linux-Kenntnisse, Erfahrung mit Bash-Scripting, Ansible und Virtualisierung (Proxmox oder VMware).
+
+Gehalt: 4.200 – 4.800 € brutto monatlich. Rufbereitschaft wird zusätzlich vergütet. Präsenz im Rechenzentrum Nürnberg erforderlich.

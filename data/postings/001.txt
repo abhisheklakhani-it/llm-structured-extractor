@@ -1,0 +1,20 @@
+Senior Machine Learning Engineer (f/m/x)
+Nordlicht Analytics GmbH · Hamburg · Hybrid
+
+About us
+Nordlicht Analytics builds demand forecasting for 300+ European retailers.
+
+What you'll do
+- Own our forecasting models end to end, from feature pipelines to production
+- Deploy models as services on Kubernetes
+- Mentor two junior engineers
+
+What you bring
+- 5+ years of Python
+- Solid experience with PyTorch or TensorFlow
+- SQL and Apache Spark
+- Docker, Kubernetes, MLflow
+- Nice to have: Airflow, AWS
+
+What we offer
+€75,000 – €90,000 per year, 30 vacation days, 3 office days a week in Hamburg.

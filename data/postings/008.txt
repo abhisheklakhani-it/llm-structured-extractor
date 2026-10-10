@@ -1,0 +1,11 @@
+Softwareentwickler Java (m/w/d)
+Rheinmetrik AG, Düsseldorf
+
+Ihre Aufgaben
+Sie entwickeln und warten unsere Messdatenplattform auf Basis von Java 21 und Spring Boot. Dabei arbeiten Sie mit Kafka, PostgreSQL und Kubernetes. Sie schreiben automatisierte Tests mit JUnit und sind an Code Reviews beteiligt.
+
+Ihr Profil
+Mehrjährige Erfahrung in der Java-Entwicklung, Kenntnisse in REST-API-Design, Git und Maven. Erfahrung mit Angular ist von Vorteil.
+
+Unser Angebot
+Ein unbefristeter Arbeitsvertrag, flexible Arbeitszeiten und die Möglichkeit zum mobilen Arbeiten an bis zu zwei Tagen pro Woche. Das Jahresgehalt liegt zwischen 68.000 und 80.000 Euro.
