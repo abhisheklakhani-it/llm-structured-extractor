@@ -1,0 +1,9 @@
+Data Analyst
+Wavecrest Energy Ltd — Glasgow
+
+Wavecrest runs tidal energy farms off the Scottish coast. Join our analytics team to turn turbine telemetry into maintenance decisions.
+
+You'll build reports in Power BI, write SQL against our Azure Synapse warehouse and automate analyses in Python.
+Experience with time series analysis is a plus.
+
+£38,000 - £45,000. Office-based in Glasgow.

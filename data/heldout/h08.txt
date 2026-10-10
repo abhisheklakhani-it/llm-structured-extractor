@@ -1,0 +1,8 @@
+Head of Data Science
+Meridian Health Insurance · Dublin
+
+Meridian is looking for a Head of Data Science to lead a team of 12 data scientists working on claims fraud detection, churn prediction and pricing.
+
+You have led data science teams before, know Python, SQL and Spark, and have shipped models to production with MLflow and Databricks. Experience with GDPR-compliant data processing is required.
+
+Competitive package. Hybrid working: 3 days a week in our Dublin office.

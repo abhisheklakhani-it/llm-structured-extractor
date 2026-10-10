@@ -1,0 +1,12 @@
+LLM Engineer (f/m/d) — Customer Support Automation
+Helpwise GmbH | Munich or 100% remote (Germany)
+
+We automate first-level support for 500 e-commerce shops. You will build LLM agents that answer tickets, with tool calling into shop systems and guardrails against wrong refunds.
+
+Requirements
+- Python, FastAPI
+- LLM APIs (Anthropic, OpenAI), function calling, RAG
+- Evaluation of LLM outputs, prompt engineering
+- Bonus: LangGraph
+
+€72k–€88k + virtual shares. Work from our Munich office or fully remote in Germany.

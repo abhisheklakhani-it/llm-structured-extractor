@@ -1,0 +1,8 @@
+Senior Backend Engineer (m/w/d) – Payments Team
+Kontora Banking Software GmbH · Frankfurt am Main
+
+Your mission: build the core ledger services of our banking-as-a-service platform.
+Tech: Kotlin, Spring Boot, PostgreSQL, Kafka, gRPC, Kubernetes on AWS.
+Nice to have: experience with event sourcing.
+
+Salary €80,000–€95,000. Hybrid: 2 days per week in the Frankfurt office.

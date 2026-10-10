@@ -1,0 +1,8 @@
+Junior Data Scientist (m/w/d) im Marketing
+Kaufhaus Brenner GmbH, Mannheim
+
+Du analysierst das Kaufverhalten unserer Kund:innen und baust Modelle zur Kundensegmentierung und Kampagnenoptimierung. Wir arbeiten mit Python (pandas, scikit-learn), SQL und Google Analytics.
+
+Was wir erwarten: Ein Studium mit quantitativem Schwerpunkt und erste Praxiserfahrung, z. B. aus Praktika.
+
+Was wir bieten: 50.000 € Einstiegsgehalt und zwei Tage Homeoffice pro Woche.

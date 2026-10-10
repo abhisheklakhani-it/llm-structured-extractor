@@ -1,0 +1,8 @@
+Werkstudent:in Software Engineering (Python) (w/m/d)
+Lichtblau Robotics GmbH – Aachen
+
+Unterstütze unser Team bei der Entwicklung von Steuerungssoftware für Industrieroboter. Du schreibst Python- und C++-Code, testest mit pytest und arbeitest mit ROS 2.
+
+Du studierst Informatik, Maschinenbau oder Elektrotechnik und hast erste Erfahrung mit Python und Git.
+
+Stundenlohn: 19 €. Arbeit vor Ort im Labor in Aachen, gelegentlich Homeoffice.

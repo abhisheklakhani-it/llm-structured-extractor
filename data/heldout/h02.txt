@@ -1,0 +1,11 @@
+Hallo zusammen,
+
+für einen unserer Kunden, ein Start-up aus dem Bereich Agrartechnik in Freising, suchen wir eine:n Machine Learning Engineer (m/w/d).
+
+Aufgaben: Entwicklung von Modellen zur Ernteprognose aus Drohnenbildern, Deployment mit Docker auf Azure.
+Skills: Python, PyTorch, OpenCV, Azure ML, Docker.
+
+Gehalt bis 78.000 € im Jahr, Remote-Arbeit bis zu 3 Tage pro Woche.
+
+Viele Grüße
+Tobias, Senior Consultant, Hofmann IT-Personal

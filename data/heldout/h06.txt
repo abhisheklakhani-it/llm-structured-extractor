@@ -1,0 +1,10 @@
+Platform Engineer
+Quillstone
+
+At Quillstone we build writing tools used by 2M students. Our platform team keeps 200 microservices running.
+
+What you'll do: run our Kubernetes platform on GCP (GKE), build golden paths with Backstage, manage infrastructure with Terraform and Argo CD, and improve our observability with OpenTelemetry.
+
+What you bring: 4+ years in platform or SRE roles, strong Go or Python, deep Kubernetes knowledge.
+
+Fully remote across Europe. Salary: €85,000.

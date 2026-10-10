@@ -14,3 +14,6 @@ def retry_message(posting: str, previous_reply: str, error: str) -> str:
         f"<error>\n{error}\n</error>\n"
         "Return a corrected JSON object that fixes this error."
     )
+
+
+PROMPTS = {"zero_shot": ZERO_SHOT_SYSTEM}

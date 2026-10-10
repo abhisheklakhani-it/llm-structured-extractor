@@ -1,0 +1,10 @@
+Wir suchen: Cloud Architect Azure (m/w/d)
+
+Arbeitgeber: Nordwerk IT Services AG
+Ort: Hamburg, Remote möglich
+
+Deine Rolle: Du entwirfst Cloud-Architekturen für unsere Kunden auf Microsoft Azure, setzt Landing Zones mit Bicep und Terraform um und berätst zu Sicherheit und Kosten.
+
+Dein Profil: Mehrjährige Erfahrung mit Azure (AKS, Azure Functions, Entra ID), Infrastructure as Code, idealerweise AZ-305-Zertifizierung.
+
+Gehalt: 90.000 – 110.000 € p.a.
