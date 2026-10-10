@@ -154,7 +154,7 @@ pytest
 ## Limitations
 
 - **Small, synthetic dataset.** The 40 postings are fictional (invented companies, no real people) but copy real formats. 10 held-out postings is enough to show the direction of a change, not to separate 67% from 70%: one posting is 10 points.
-- **One labeller.** I labelled every posting myself, following [the labelling guide](data/LABELING.md). Fields like the title and the skills list involve judgement, and a second labeller would disagree on some.
+- **One labelling pass.** All labels come from a single pass following [the labelling guide](data/LABELING.md). Fields like the title and the skills list involve judgement, and a second labeller would disagree on some.
 - **Only `gpt-oss:120b` was measured.** The Claude path (`messages.parse`) is implemented and its configuration is tested, but it was not benchmarked here because that needs a paid API key.
 - **Confidence is self-reported** and, as measured above, not informative.
 
