@@ -60,8 +60,8 @@ Measured on 11 Oct 2026 with `gpt-oss:120b` on Ollama Cloud, temperature 0, **me
 | salary | 1.00 | 1.00 |
 | remote | 0.93 | **1.00** |
 | language | 1.00 | 1.00 |
-| skills precision / recall | 0.95 / 0.84 | 0.96 / 0.90 |
-| skills F1 | 0.89 | 0.93 |
+| skills precision / recall | 0.96 / 0.83 | 0.96 / 0.89 |
+| skills F1 | 0.89 | 0.92 |
 | **all scalar fields correct** | **0.50** | **0.93** |
 
 Median latency was about 5 s per posting. No extraction needed a retry in these 240 runs; the retry path is covered by tests with a fake model.
@@ -154,7 +154,7 @@ pytest
 ## Limitations
 
 - **Small, synthetic dataset.** The 40 postings are fictional (invented companies, no real people) but copy real formats. 10 held-out postings is enough to show the direction of a change, not to separate 67% from 70%: one posting is 10 points.
-- **One labelling pass.** All labels come from a single pass following [the labelling guide](data/LABELING.md). Fields like the title and the skills list involve judgement, and a second labeller would disagree on some.
+- **One labeller.** All labels follow [the labelling guide](data/LABELING.md) and were re-checked once against it, which fixed six dev-set skill lists ([the changes](data/LABELING.md#label-review-11-oct-2026)); the held-out labels needed none. Fields like the title and the skills list involve judgement, and a second labeller would disagree on some.
 - **Only `gpt-oss:120b` was measured.** The Claude path (`messages.parse`) is implemented and its configuration is tested, but it was not benchmarked here because that needs a paid API key.
 - **Confidence is self-reported** and, as measured above, not informative.
 
