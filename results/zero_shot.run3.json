@@ -1,0 +1,132 @@
+{
+  "n": 30,
+  "failed": 0,
+  "fields": {
+    "title": {
+      "accuracy": 0.5666666666666667
+    },
+    "company": {
+      "accuracy": 0.9666666666666667
+    },
+    "salary": {
+      "accuracy": 1.0
+    },
+    "remote": {
+      "accuracy": 0.9333333333333333
+    },
+    "language": {
+      "accuracy": 1.0
+    },
+    "skills": {
+      "precision": 0.9493670886075949,
+      "recall": 0.8333333333333334,
+      "f1": 0.8875739644970415
+    }
+  },
+  "all_scalar_fields_correct": 0.5,
+  "prompt": "zero_shot",
+  "split": "dev",
+  "provider": "ollama",
+  "model": "gpt-oss:120b",
+  "retries": 0,
+  "median_seconds": 5.225,
+  "mean_confidence": 0.98,
+  "errors": [
+    {
+      "id": "001",
+      "field": "title",
+      "gold": "Senior Machine Learning Engineer",
+      "predicted": "Senior Machine Learning Engineer (f/m/x)"
+    },
+    {
+      "id": "002",
+      "field": "title",
+      "gold": "Data Scientist – NLP",
+      "predicted": "Data Scientist (m/w/d) – NLP"
+    },
+    {
+      "id": "005",
+      "field": "title",
+      "gold": "Werkstudent Data Analytics",
+      "predicted": "Werkstudent (m/w/d) Data Analytics"
+    },
+    {
+      "id": "008",
+      "field": "title",
+      "gold": "Softwareentwickler Java",
+      "predicted": "Softwareentwickler Java (m/w/d)"
+    },
+    {
+      "id": "010",
+      "field": "title",
+      "gold": "Data Engineer",
+      "predicted": "Data Engineer (w/m/d) für unsere Smart-Meter-Plattform"
+    },
+    {
+      "id": "013",
+      "field": "title",
+      "gold": "Freelance Data Scientist",
+      "predicted": "Freelance Data Scientist (6 months, extendable)"
+    },
+    {
+      "id": "014",
+      "field": "title",
+      "gold": "Frontend Developer React",
+      "predicted": "Frontend Developer React (m/w/d)"
+    },
+    {
+      "id": "016",
+      "field": "title",
+      "gold": "IT-Systemadministrator Linux",
+      "predicted": "IT-Systemadministrator (m/w/d) Linux"
+    },
+    {
+      "id": "018",
+      "field": "title",
+      "gold": "Senior Data Scientist - Pricing",
+      "predicted": "Senior Data Scientist (all genders) - Pricing"
+    },
+    {
+      "id": "019",
+      "field": "remote",
+      "gold": "remote",
+      "predicted": "hybrid"
+    },
+    {
+      "id": "020",
+      "field": "title",
+      "gold": "Praktikum Machine Learning",
+      "predicted": "Praktikum Machine Learning (m/w/d) – 6 Monate"
+    },
+    {
+      "id": "022",
+      "field": "title",
+      "gold": "Teamleitung Business Intelligence",
+      "predicted": "Teamleitung Business Intelligence (m/w/d)"
+    },
+    {
+      "id": "024",
+      "field": "remote",
+      "gold": "remote",
+      "predicted": "hybrid"
+    },
+    {
+      "id": "026",
+      "field": "title",
+      "gold": "Junior Python Entwickler",
+      "predicted": "Junior Python Entwickler (m/w/d)"
+    },
+    {
+      "id": "026",
+      "field": "company",
+      "gold": null,
+      "predicted": "Wortmann & Partner Personalberatung"
+    },
+    {
+      "id": "030",
+      "field": "title",
+      "gold": "NLP Engineer für Dokumentenverarbeitung",
+      "predicted": "NLP Engineer (m/w/d) für Dokumentenverarbeitung"
+    }
+  ]
+}
