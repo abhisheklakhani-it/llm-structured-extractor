@@ -2,6 +2,7 @@
 
 Turns messy job postings (English or German) into clean, validated JSON: **title, company, skills, salary, remote policy and language**. A Pydantic schema validates every answer, the extractor retries with the validation error when the model gets it wrong, and accuracy is measured field by field against hand-labelled postings, including a held-out set the prompt was never tuned on.
 
+[![CI](https://github.com/abhisheklakhani-it/llm-structured-extractor/actions/workflows/ci.yml/badge.svg)](https://github.com/abhisheklakhani-it/llm-structured-extractor/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-v2-E92063?logo=pydantic&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
